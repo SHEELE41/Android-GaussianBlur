@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenCL</string>
+    <string name="cpu_blur">CPU BLUR</string>
+    <string name="gpu_blur">GPU BLUR</string>
+    <string name="original">ORIGINAL</string>
+    <string name="_2017872018">2017872018 석종규</string>
+    <string name="time">Time :</string>
+</resources>
